@@ -67,8 +67,8 @@ namespace BilliardShop.Implementation.Commands
             _sender.Send(new SendEmailDto
             {
                 SendTo = request.Email,
-                Subject = "Best Buy Registration",
-                Body = "<h1>Successful registration</h1>"
+                Subject = "Successful Registration",
+                Body = "<h2>You are successfully registered and now eligible for buying best billiard products from all around the world for best prices.</h2>\t <h1>©BilliardShop</h1>"
             });
         }
     }
