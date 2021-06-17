@@ -38,5 +38,5 @@ Pri upisu novog proizvoda podatke slati preko Body / form-data.
 
 Nakon migracije i Update-Database komande pogoditi PopulateController (POST) radi inserta inicijalnih podataka.
 
-Slika dijagrama baze podataka se nalai u root-u projekta.
+Slika dijagrama baze podataka se nalazi u root-u projekta.
 
