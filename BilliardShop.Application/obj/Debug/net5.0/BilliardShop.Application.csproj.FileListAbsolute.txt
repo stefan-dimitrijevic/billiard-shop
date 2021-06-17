@@ -1,0 +1,15 @@
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\BilliardShop.Domain.dll
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.AssemblyInfoInputs.cache
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.AssemblyInfo.cs
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\BilliardShop.Application.deps.json
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\BilliardShop.Application.dll
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\ref\BilliardShop.Application.dll
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\BilliardShop.Application.pdb
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\bin\Debug\net5.0\BilliardShop.Domain.pdb
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.csproj.CopyComplete
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.dll
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\ref\BilliardShop.Application.dll
+C:\Users\korisnik\source\repos\BilliardShop\BilliardShop.Application\obj\Debug\net5.0\BilliardShop.Application.pdb
